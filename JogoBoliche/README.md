@@ -59,7 +59,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 * **Gustavo Martins** - *Desenvolveu o protótipo em python e o software final em Haskell* - [Gustavo](https://github.com/GustavoOM)
 
 
-## Esclarecimentos técnicos:
+## Esclarecimentos sobre a modularização recorrente do código:
 
 -- # CABEÇA DA CALDA DA CALDA 
 -> (pontos +  head tail(tail(listaDePontos)))
