@@ -8,6 +8,8 @@
 -- # CABEÇA 
 -> (pontos +  head listaDePontos )
 
+## ALGUNS CASOS DE TESTE
+
 ```
 10 10 10 10 10 10 10 10 10 10 10 10 
 ```
