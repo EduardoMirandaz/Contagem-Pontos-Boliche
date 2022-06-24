@@ -109,12 +109,13 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ```
 10 10 10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
-`#``
+```
+-> expected X _ | X _ | X _ | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 77
 
-```-> expected X _ | X _ | X _ | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 77 
+``` 
  10 10 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
 ```
-#-> expected X _ | X _ | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 49
+-> expected X _ | X _ | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 1 1 | 49
 
 ## 🎁 Expressões de gratidão
 
