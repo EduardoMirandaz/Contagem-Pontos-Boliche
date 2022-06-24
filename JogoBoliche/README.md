@@ -8,11 +8,6 @@
 -- # CABEÇA 
 -> (pontos +  head listaDePontos )
 
-
--- # CABEÇA DA CALDA DA CALDA -> (pontos +  head tail(tail(listaDePontos)))
--- # CABEÇA DA CALDA -> (pontos +  head tail(listaDePontos) )
--- # CABEÇA -> (pontos +  head listaDePontos )
-
 ```
 10 10 10 10 10 10 10 10 10 10 10 10 
 ```
