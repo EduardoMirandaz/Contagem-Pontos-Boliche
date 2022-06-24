@@ -1,5 +1,4 @@
 
-
 -- # CABEÇA DA CALDA DA CALDA 
 -> (pontos +  head tail(tail(listaDePontos)))
 
@@ -9,8 +8,6 @@
 -- # CABEÇA 
 -> (pontos +  head listaDePontos )
 
-
-## Alguns testes :
 
 ```
 -- # 10 10 10 10 10 10 10 10 10 10 10 10 -> expected X _ | X _ | X _ | X _ | X _ | X _ | X _ | X _ | X _ | X X X | 300
@@ -45,9 +42,8 @@
 ```
 -- # 10 10 10 10 10 10 10 10 10 10 10 10 
 ```
--> expected 
 ```
-X _ | X _ | X _ | X _ | X _ | X _ | X _ | X _ | X _ | X X X | 300
+-> expected X _ | X _ | X _ | X _ | X _ | X _ | X _ | X _ | X _ | X X X | 300
 ```
 ```
 -- # 7 3 5 5 5 5 7 3 7 3 6 4 5 5 5 5 5 5 5 5 5 
